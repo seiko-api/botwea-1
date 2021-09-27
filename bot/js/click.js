@@ -1,3 +1,3 @@
 function openLink() {
-    window.open('https://api.whatsapp.com/send?phone=62812788952868&text=#help', '_blank')
+    window.open('https://wa.me/16144268657?text=/menu', '_blank')
 }
